@@ -1,0 +1,69 @@
+/* red-hat-text-regular - latin */
+@font-face {
+  font-family: 'Red Hat Text';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+    url('../fonts/red-hat-text-v11-latin-regular.woff2') format('woff2'),
+    url('../fonts/red-hat-text-v11-latin-regular.woff') format('woff');
+}
+
+/* red-hat-text-500 - latin */
+@font-face {
+  font-family: 'Red Hat Text';
+  font-style: normal;
+  font-weight: 500;
+  src: local(''),
+    url('../fonts/red-hat-text-v11-latin-500.woff2') format('woff2'),
+    url('../fonts/red-hat-text-v11-latin-500.woff') format('woff');
+}
+
+/* magra-regular - latin */
+@font-face {
+  font-family: 'Magra';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+    url('../fonts/magra-v14-latin-regular.woff2') format('woff2'),
+    url('../fonts/magra-v14-latin-regular.woff') format('woff');
+}
+
+/* aleo-regular - latin */
+@font-face {
+  font-family: 'Aleo';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+    url('../fonts/aleo-v11-latin-regular.woff2') format('woff2'),
+    url('../fonts/aleo-v11-latin-regular.woff') format('woff');
+}
+
+/* aleo-italic - latin */
+@font-face {
+  font-family: 'Aleo';
+  font-style: italic;
+  font-weight: 400;
+  src: local(''),
+    url('../fonts/aleo-v11-latin-italic.woff2') format('woff2'),
+    url('../fonts/aleo-v11-latin-italic.woff') format('woff');
+}
+
+/* aleo-700 - latin */
+@font-face {
+  font-family: 'Aleo';
+  font-style: normal;
+  font-weight: 700;
+  src: local(''),
+    url('../fonts/aleo-v11-latin-700.woff2') format('woff2'),
+    url('../fonts/aleo-v11-latin-700.woff') format('woff');
+}
+
+/* aleo-700italic - latin */
+@font-face {
+  font-family: 'Aleo';
+  font-style: italic;
+  font-weight: 700;
+  src: local(''),
+    url('../fonts/aleo-v11-latin-700italic.woff2') format('woff2'),
+    url('../fonts/aleo-v11-latin-700italic.woff') format('woff');
+}
